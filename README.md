@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://port-folio-wheat-one.vercel.app/](https://port-folio-wheat-one.vercel.app/)
 
-- 💬 Ask me about **react, nodeJS, express, socket.io**
-
 - 📫 How to reach me **adityak1927@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
